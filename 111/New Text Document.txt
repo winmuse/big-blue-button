@@ -1,0 +1,8 @@
+staging.videochat.remotan.jp
+
+ssh -i ~/.ssh/tmp.pem webdev@54.150.153.77
+
+sudo su
+　password
+
+su - ubuntu
